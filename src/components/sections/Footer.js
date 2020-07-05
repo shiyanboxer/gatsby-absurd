@@ -77,11 +77,12 @@ const Footer = () => (
 
 const SocialIcons = styled.div`
   display: flex;
+  color: ${props => props.theme.color.white.regular};
 
   img {
     margin: 0 8px;
     width: 24px;
-    height: 24px;
+    height: 24px;    
   }
 
   @media (max-width: ${props => props.theme.screen.sm}) {
@@ -110,6 +111,7 @@ const Art = styled.figure`
   justify-content: center;
   margin: 0;
   margin-top: 48px;
+  
 `;
 
 const StyledContainer = styled(Container)`

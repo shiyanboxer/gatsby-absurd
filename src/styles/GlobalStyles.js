@@ -9,6 +9,7 @@ const GlobalStyles = createGlobalStyle`
 
   body {
     font-family: ${props => props.theme.font.secondary};
+    color: ${props => props.theme.color.white.regular};
   }
 
   h1, h2, h3, p {
@@ -22,14 +23,17 @@ const GlobalStyles = createGlobalStyle`
 
   h1 {
     ${props => props.theme.font_size.xlarge};
+    color: ${props => props.theme.color.white.regular};
   }
 
   h2 {
     ${props => props.theme.font_size.larger};
+    color: ${props => props.theme.color.white.regular};
   }
 
   h3 {
     ${props => props.theme.font_size.large};
+    color: ${props => props.theme.color.white.regular};
   }
 
   p {

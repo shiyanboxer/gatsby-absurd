@@ -20,6 +20,7 @@ export const Wrapper = styled.div`
 
     font-family: ${props => props.theme.font.secondary};
     ${props => props.theme.font_size.regular};
+    color: ${props => props.theme.color.white.regular};
     font-weight: bold;
     padding: 24px;
     padding-right: 72px;
