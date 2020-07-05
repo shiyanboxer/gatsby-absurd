@@ -150,12 +150,12 @@ const ArtMobile = styled.figure`
 
 const Title = styled.p`
   margin-top: 16px;
-  color: ${props => props.theme.color.black.regular};
+  color: ${props => props.theme.color.white.regular};
 `;
 
 const Subtitle = styled.p`
   ${props => props.theme.font_size.small};
-  color: ${props => props.theme.color.black.light};
+  color: ${props => props.theme.color.white.regular};
 `;
 
 export default Team;

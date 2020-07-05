@@ -40,7 +40,7 @@ const Header = () => (
               <br />
               <p>
                 <StyledExternalLink href="https://github.com/ajayns/gatsby-absurd">
-                  Check out source &nbsp;&#x2794;
+                  Schedule Your Service Now &nbsp;&#x2794;
                 </StyledExternalLink>
               </p>
             </Text>
@@ -103,7 +103,7 @@ const StyledExternalLink = styled(ExternalLink)`
   text-decoration: none;
 
   &:hover {
-    color: ${props => props.theme.color.black.regular};
+    color: ${props => props.theme.color.white.regular};
   }
 `;
 

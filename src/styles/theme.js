@@ -13,14 +13,14 @@ const theme = {
   color: {
     white: {
       regular: '#FFFFFF',
-      dark: '#F6F6F6',
+      dark: '#FFFFFF', // changes the Team section
     },
-    black: {
-      lighter: '#ABA8AF',
-      light: '#564F62',
-      regular: '#211E26',
+    black: { 
+      lighter: '#000000',
+      light: '#000000',
+      regular: '#000000',
     },
-    primary: '#8bd8ed',
+    primary: '#000000',
   },
   screen: {
     xs: '575px',
