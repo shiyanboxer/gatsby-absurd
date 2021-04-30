@@ -1,7 +1,5 @@
 # gatsby website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7e20c6b5-38ce-4624-8946-6cf67fe6b34f/deploy-status)](https://app.netlify.com/sites/benjaminjamesvalko/deploys)
-
 An absurd Gatsby starter. The collection of illustrations, [absurd.design](https://absurd.design/) by [Diana Valeanu](https://twitter.com/diana_valeanu) is a very fascinating and beautiful project with some pretty thoughtful concepts. Experimentation on how that could be put together on a site ended up as this starter.
 
 ![screenshot](https://user-images.githubusercontent.com/20743219/85018804-64ec4e00-b18b-11ea-9aa0-d4be033efff8.png)
